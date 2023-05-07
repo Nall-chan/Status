@@ -12,9 +12,7 @@ Name | Style | Tests |
 [GHoma](https://github.com/Nall-chan/GHoma/) | [![Check Style](https://github.com/Nall-chan/GHoma/workflows/Check%20Style/badge.svg)](https://github.com/Nall-chan/GHoma/actions) | [![Run Tests](https://github.com/Nall-chan/GHoma/workflows/Run%20Tests/badge.svg)](https://github.com/Nall-chan/GHoma/actions) | 
 [GitHubStatus](https://github.com/Nall-chan/GitHubStatus/) | [![Check Style](https://github.com/Nall-chan/GitHubStatus/workflows/Check%20Style/badge.svg)](https://github.com/Nall-chan/GitHubStatus/actions) | [![Run Tests](https://github.com/Nall-chan/GitHubStatus/workflows/Run%20Tests/badge.svg)](https://github.com/Nall-chan/GitHubStatus/actions) | 
 [HomematicExtended](https://github.com/Nall-chan/HomematicExtended/) | [![Check Style](https://github.com/Nall-chan/HomematicExtended/workflows/Check%20Style/badge.svg)](https://github.com/Nall-chan/HomematicExtended/actions) | [![Run Tests](https://github.com/Nall-chan/HomematicExtended/workflows/Run%20Tests/badge.svg)](https://github.com/Nall-chan/HomematicExtended/actions) | 
-[IPSNetwork](https://github.com/Nall-chan/IPSNetwork/) | [![Check Style](https://github.com/Nall-chan/IPSNetwork/workflows/Check%20Style/badge.svg)](https://github.com/Nall-chan/IPSNetwork/actions) | [![Run Tests](https://github.com/Nall-chan/IPSNetwork/workflows/Run%20Tests/badge.svg)](https://github.com/Nall-chan/IPSNetwork/actions) | 
 [IPSUniversalTrigger](https://github.com/Nall-chan/IPSUniversalTrigger/) | [![Check Style](https://github.com/Nall-chan/IPSUniversalTrigger/workflows/Check%20Style/badge.svg)](https://github.com/Nall-chan/IPSUniversalTrigger/actions) | [![Run Tests](https://github.com/Nall-chan/IPSUniversalTrigger/workflows/Run%20Tests/badge.svg)](https://github.com/Nall-chan/IPSUniversalTrigger/actions) | 
-[IPSXBeeZigBee](https://github.com/Nall-chan/IPSXBeeZigBee/) | [![Check Style](https://github.com/Nall-chan/IPSXBeeZigBee/workflows/Check%20Style/badge.svg)](https://github.com/Nall-chan/IPSXBeeZigBee/actions) | [![Run Tests](https://github.com/Nall-chan/IPSXBeeZigBee/workflows/Run%20Tests/badge.svg)](https://github.com/Nall-chan/IPSXBeeZigBee/actions) | 
 [Kodi](https://github.com/Nall-chan/Kodi/) | [![Check Style](https://github.com/Nall-chan/Kodi/workflows/Check%20Style/badge.svg)](https://github.com/Nall-chan/Kodi/actions) | [![Run Tests](https://github.com/Nall-chan/Kodi/workflows/Run%20Tests/badge.svg)](https://github.com/Nall-chan/Kodi/actions) | 
 [MS35](https://github.com/Nall-chan/MS35/) | [![Check Style](https://github.com/Nall-chan/MS35/workflows/Check%20Style/badge.svg)](https://github.com/Nall-chan/MS35/actions) | [![Run Tests](https://github.com/Nall-chan/MS35/workflows/Run%20Tests/badge.svg)](https://github.com/Nall-chan/MS35/actions) | 
 [MySQLArchive](https://github.com/Nall-chan/MySQLArchive/) | [![Check Style](https://github.com/Nall-chan/MySQLArchive/workflows/Check%20Style/badge.svg)](https://github.com/Nall-chan/MySQLArchive/actions) | [![Run Tests](https://github.com/Nall-chan/MySQLArchive/workflows/Run%20Tests/badge.svg)](https://github.com/Nall-chan/MySQLArchive/actions) | 
@@ -31,9 +29,9 @@ Name | Style | Tests |
 [tapoSmartHome](https://github.com/Nall-chan/tapoSmartHome/) | [![Check Style](https://github.com/Nall-chan/tapoSmartHome/workflows/Check%20Style/badge.svg)](https://github.com/Nall-chan/tapoSmartHome/actions) | [![Run Tests](https://github.com/Nall-chan/tapoSmartHome/workflows/Run%20Tests/badge.svg)](https://github.com/Nall-chan/tapoSmartHome/actions) | 
 [VeluxKLF200](https://github.com/Nall-chan/VeluxKLF200/) | [![Check Style](https://github.com/Nall-chan/VeluxKLF200/workflows/Check%20Style/badge.svg)](https://github.com/Nall-chan/VeluxKLF200/actions) | [![Run Tests](https://github.com/Nall-chan/VeluxKLF200/workflows/Run%20Tests/badge.svg)](https://github.com/Nall-chan/VeluxKLF200/actions) | 
 [VoiceRSS](https://github.com/Nall-chan/VoiceRSS/) | [![Check Style](https://github.com/Nall-chan/VoiceRSS/workflows/Check%20Style/badge.svg)](https://github.com/Nall-chan/VoiceRSS/actions) | [![Run Tests](https://github.com/Nall-chan/VoiceRSS/workflows/Run%20Tests/badge.svg)](https://github.com/Nall-chan/VoiceRSS/actions) | 
-[Xiaomi-Smart-Home](https://github.com/Nall-chan/Xiaomi-Smart-Home/) | [![Check Style](https://github.com/Nall-chan/Xiaomi-Smart-Home/workflows/Check%20Style/badge.svg)](https://github.com/Nall-chan/Xiaomi-Smart-Home/actions) | [![Run Tests](https://github.com/Nall-chan/Xiaomi-Smart-Home/workflows/Run%20Tests/badge.svg)](https://github.com/Nall-chan/Xiaomi-Smart-Home/actions) | 
+[XBee-ZigBee](https://github.com/Nall-chan/XBee-ZigBee/) | [![Check Style](https://github.com/Nall-chan/XBee-ZigBee/workflows/Check%20Style/badge.svg)](https://github.com/Nall-chan/XBee-ZigBee/actions) | [![Run Tests](https://github.com/Nall-chan/XBee-ZigBee/workflows/Run%20Tests/badge.svg)](https://github.com/Nall-chan/XBee-ZigBee/actions) | 
 [Yeelight](https://github.com/Nall-chan/Yeelight/) | [![Check Style](https://github.com/Nall-chan/Yeelight/workflows/Check%20Style/badge.svg)](https://github.com/Nall-chan/Yeelight/actions) | [![Run Tests](https://github.com/Nall-chan/Yeelight/workflows/Run%20Tests/badge.svg)](https://github.com/Nall-chan/Yeelight/actions) | 
-Aktuelle Anzahl der PHP-Module: 31
+Aktuelle Anzahl der PHP-Module: 29
 
 ### Forks/Veraltete/Besondere PHP-Module
 
@@ -41,13 +39,10 @@ Name |
 ---- |
 [BY_IPSInformations](https://github.com/Nall-chan/BY_IPSInformations/) |
 [COVID19](https://github.com/Nall-chan/COVID19/) |
-[IPS-PiHole](https://github.com/Nall-chan/IPS-PiHole/) |
 [IPS2Tankerkoenig](https://github.com/Nall-chan/IPS2Tankerkoenig/) |
+[IPSNetwork](https://github.com/Nall-chan/IPSNetwork/) |
 [MagicHomeWifiLED](https://github.com/Nall-chan/MagicHomeWifiLED/) |
 [ServerWMC](https://github.com/Nall-chan/ServerWMC/) |
-[SymconModule](https://github.com/Nall-chan/SymconModule/) |
 [SymconModulHelper](https://github.com/Nall-chan/SymconModulHelper/) |
-[SymconStubs](https://github.com/Nall-chan/SymconStubs/) |
-[SymconTest](https://github.com/Nall-chan/SymconTest/) |
 [SymconVSCTasks](https://github.com/Nall-chan/SymconVSCTasks/) |
-[SyncDropbox](https://github.com/Nall-chan/SyncDropbox/) |
+[Xiaomi-Smart-Home](https://github.com/Nall-chan/Xiaomi-Smart-Home/) |
